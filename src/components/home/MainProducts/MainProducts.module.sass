@@ -1,0 +1,35 @@
+.MainProducts
+  & > h3
+    text-align: center
+    font-size: 3rem
+  &__grid
+    display: grid
+    width: 100%
+    grid-template-columns: repeat(2, 1fr)
+    grid-template-rows: 400px 400px
+    & > article
+      position: relative
+      z-index: 1
+      margin: 0.5rem
+      min-height: 380px
+      &:hover
+        cursor: pointer
+        border: 2px solid white
+        border-radius: 0.5rem
+        box-shadow: 0 0 4rem rgba(255, 255, 255, 0.2)
+        overflow: hidden
+      & > img
+        border-radius: 0.5rem
+        height: 400px
+        opacity: 0.4
+        object-fit: cover
+      & > p
+        position: absolute
+        top: 0
+        right: 1.5rem
+        z-index: 2
+        font-size: 1.5rem
+        font-weight: 700
+        max-width: 300px
+        text-align: right
+          

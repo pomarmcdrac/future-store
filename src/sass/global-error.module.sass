@@ -1,0 +1,39 @@
+.error
+  display: flex
+  flex-direction: column
+  align-items: center
+  justify-content: center
+  & > img
+    border-radius: 2rem
+    cursor: pointer
+    box-shadow: 0 0 4rem rgba(255, 255, 255, 0.2)
+  &__title
+    padding: 1rem 0
+    font-size: 5rem
+    font-weight: 900
+    margin: 0
+    background-image: linear-gradient(270deg, #7cffff, #072d91)
+    background-clip: text
+    -webkit-text-fill-color: transparent
+  &__message
+    font-size: 1.5rem
+    padding: 1rem 0
+  &__button
+    display: block
+    width: fit-content
+    font-weight: 700
+    text-decoration: none
+    margin-top: 1rem
+    border: none
+    font-size: 1.2rem
+    cursor: pointer
+    margin-top: auto
+    cursor: pointer
+    background: $main-contrast
+    color: $text-color
+    border-radius: 1rem
+    padding: 0.5rem 2rem
+    &:hover
+        cursor: pointer
+        border: 2px solid white
+        box-shadow: 0 0 4rem rgba(255, 255, 255, 0.2)
