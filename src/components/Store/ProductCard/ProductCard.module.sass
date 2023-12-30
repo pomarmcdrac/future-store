@@ -1,0 +1,32 @@
+.productCard
+  display: flex
+  flex-direction: column
+  position: relative
+  border-radius: 1rem
+  &:hover
+    box-shadow: 0 0 4rem rgba(124, 255, 255, 0.2)
+    border: 2px solid white
+  & > img
+    border-radius: 1rem
+    &:hover
+      cursor: pointer
+      box-shadow: 0 0 4rem rgba(255, 255, 255, 0.2)
+  &__info
+    padding: 0.75rem
+    padding-top: 0
+    border-radius: 5px
+  &__priceTag
+    width: fit-content
+    display: inline-block
+    background-color: red
+    color: white
+    padding: 0.25rem
+    position: absolute
+    top: -0.5rem
+    right: -1rem
+    border-radius: 5px
+    transform: rotate(5deg)
+  &__link
+    text-decoration: none
+    color: white
+    cursor: pointer
