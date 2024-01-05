@@ -11,10 +11,6 @@ interface ErrorProps {
 
 export default function Error({error, reset}: ErrorProps) {
 
-    useEffect(() => {
-        console.log(error)
-    }, [])
-
     return (
         <div className={styles.error}>
             <Image src={"/images/robot.jpg"} width={100} height={100} alt=":c" />
