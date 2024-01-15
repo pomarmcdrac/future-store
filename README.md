@@ -1,30 +1,30 @@
-# Proyecto de Next.js 14 - Catálogo de Productos del Futuro
+# Next.js 14 Project - Online Catalog of Future Products
 
-Bienvenido a nuestro proyecto de Next.js 14, dedicado a una tienda en línea de productos futuristas. En este repositorio encontrarás un catálogo emocionante que ofrece una variedad de productos innovadores y avanzados.
+Welcome to our Next.js 14 project, dedicated to an online store featuring futuristic products. In this repository, you'll discover the following features:
 
-## Características Destacadas
+## Key Features
 
-- **Interfaz Moderna y Responsiva:** Diseñada utilizando las últimas tendencias de Next.js 14 para garantizar una experiencia de usuario excepcional en cualquier dispositivo.
+- **Modern and Responsive Interface:** Designed using the latest trends of Next.js 14 to ensure an exceptional user experience on any device.
 
-- **Catálogo de Productos del Futuro:** Explora una selección única de productos que representan las últimas innovaciones y avances tecnológicos.
+- **Catalog of Future Products:** Explore a unique selection of products representing the latest innovations and technological advances.
 
-- **Funcionalidades Avanzadas de Next.js:** Aprovechamos las capacidades de la versión 14 de Next.js para optimizar el rendimiento y la eficiencia de la aplicación.
+- **Advanced Next.js Features:** We leverage the capabilities of Next.js version 14 to optimize the performance and efficiency of the application.
 
-## Cómo Empezar
+## Getting Started
 
-1. Clona este repositorio: `git clone https://github.com/pomarmcdrac/future-store`
-2. Instala las dependencias: `npm install`
-3. Ejecuta la aplicación: `npm run dev`
-4. Visita [http://localhost:3000](https://future-store-pomar.vercel.app) en tu navegador.
+1. Clone this repository: `git clone https://github.com/your-username/repository-name.git`
+2. Install dependencies: `npm install`
+3. Run the application:: `npm run dev`
+4. Visit [http://localhost:3000](https://future-store-pomar.vercel.app) in your browser.
 
-¡Esperamos que disfrutes explorando el emocionante mundo de los productos del futuro con nuestro proyecto de Next.js 14!
+We hope you enjoy exploring the exciting world of future products with our Next.js 14 project!
 
-## Contribuciones
+## Contributions
 
-¡Contribuciones y sugerencias son bienvenidas! Si encuentras errores o tienes ideas para mejorar el proyecto, por favor crea un *issue* o envía un *pull request*.
+Contributions and suggestions are welcome! If you find any issues or have ideas to enhance the project, please create an *issue* or submit a *pull request*.
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia [MIT](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ![future-store](https://github.com/pomarmcdrac/future-store/assets/99893187/07f4cc29-852c-4285-bdf4-06b35500e39d)
