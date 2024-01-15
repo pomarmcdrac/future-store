@@ -1,25 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Proyecto de Next.js 14 - Catálogo de Productos del Futuro
 
-![Group 1](https://github.com/pomarmcdrac/future-store/assets/99893187/c240b6e7-f47b-4428-9023-25bd6c2fa0dd)
+Bienvenido a nuestro proyecto de Next.js 14, dedicado a una tienda en línea de productos futuristas. En este repositorio encontrarás un catálogo emocionante que ofrece una variedad de productos innovadores y avanzados.
 
+## Características Destacadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Interfaz Moderna y Responsiva:** Diseñada utilizando las últimas tendencias de Next.js 14 para garantizar una experiencia de usuario excepcional en cualquier dispositivo.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Catálogo de Productos del Futuro:** Explora una selección única de productos que representan las últimas innovaciones y avances tecnológicos.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Funcionalidades Avanzadas de Next.js:** Aprovechamos las capacidades de la versión 14 de Next.js para optimizar el rendimiento y la eficiencia de la aplicación.
 
-## Learn More
+## Cómo Empezar
 
-To learn more about Next.js, take a look at the following resources:
+1. Clona este repositorio: `git clone [https://github.com/pomarmcdrac/future-store](https://github.com/pomarmcdrac/future-store)`
+2. Instala las dependencias: `npm install`
+3. Ejecuta la aplicación: `npm run dev`
+4. Visita [✨ Future World]([http://localhost:3000](https://future-store-pomar.vercel.app)) en tu navegador.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+¡Esperamos que disfrutes explorando el emocionante mundo de los productos del futuro con nuestro proyecto de Next.js 14!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contribuciones
 
-## Deploy on Vercel
+¡Contribuciones y sugerencias son bienvenidas! Si encuentras errores o tienes ideas para mejorar el proyecto, por favor crea un *issue* o envía un *pull request*.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Licencia
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Este proyecto está bajo la Licencia [MIT](LICENSE).
+
+![future-store](https://github.com/pomarmcdrac/future-store/assets/99893187/07f4cc29-852c-4285-bdf4-06b35500e39d)
