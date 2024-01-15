@@ -32,4 +32,35 @@
         font-weight: 700
         max-width: 300px
         text-align: right
-          
+
+// Estilos para pantallas medianas
+@media only screen and (max-width: 768px) 
+  .MainProducts
+    & > h3
+      font-size: 2rem
+    &__grid
+      grid-template-rows: 300px 300px
+      & > article
+        min-height: 250px
+        & > img
+          height: 250px
+        & > p
+          font-size: 1.1rem
+          font-weight: 500
+          max-width: 200px
+
+// Estilos para pantallas pequeñas
+@media only screen and (max-width: 480px) 
+  .MainProducts
+    & > h3
+      font-size: 1.2rem
+    &__grid
+      grid-template-rows: 200px 200px
+      & > article
+        min-height: 180px
+        & > img
+          height: 200px
+        & > p
+          font-size: 0.8rem
+          font-weight: 500
+          max-width: 180px
