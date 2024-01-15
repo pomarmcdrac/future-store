@@ -15,7 +15,7 @@ Bienvenido a nuestro proyecto de Next.js 14, dedicado a una tienda en línea de 
 1. Clona este repositorio: `git clone https://github.com/pomarmcdrac/future-store`
 2. Instala las dependencias: `npm install`
 3. Ejecuta la aplicación: `npm run dev`
-4. Visita [✨ Future World]([http://localhost:3000](https://future-store-pomar.vercel.app)) en tu navegador.
+4. Visita [http://localhost:3000](https://future-store-pomar.vercel.app) en tu navegador.
 
 ¡Esperamos que disfrutes explorando el emocionante mundo de los productos del futuro con nuestro proyecto de Next.js 14!
 
